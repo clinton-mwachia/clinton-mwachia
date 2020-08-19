@@ -17,6 +17,12 @@
   <li>Django</li>
   <li>NodeJs/Express</li>
 </ul>
+<h3>Artificial Intelligence</h3>
+<ul>
+  <li>Machine Learning</li>
+  <li>Data Science</li>
+  <li>Deep Learning</li>
+</ul>
 <!--
 **clinton-mwachia/clinton-mwachia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
