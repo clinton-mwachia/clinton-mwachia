@@ -6,6 +6,17 @@
   <li>🔭 I’m currently looking for a job in data science and machine learning.</li>
   <li>📫 check out my youTube channel on data science and machine learning on: https://www.youtube.com/channel/UCP3rPF8kquLiniJjyiK-nzA?view_as=subscriber </li>
 </ul>
+
+### Skills
+<h3>Frontend Development</h3>
+<ul>
+  <li>ReactJs</li>
+</ul>
+<h3>Backend Development</h3>
+<ul>
+  <li>Django</li>
+  <li>NodeJs/Express</li>
+</ul>
 <!--
 **clinton-mwachia/clinton-mwachia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
