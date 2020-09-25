@@ -15,7 +15,7 @@
 <h3>Backend Development</h3>
 <ul>
   <li>Django and Django REST Framework</li>
-  <li>NodeJs/Express</li>
+  <li>NodeJs</li>
 </ul>
 <h3>Artificial Intelligence</h3>
 <ul>
