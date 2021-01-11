@@ -11,6 +11,9 @@
 <h3>Frontend Development</h3>
 <ul>
   <li>ReactJs</li>
+  <li>Html5</li>
+  <li>css3</li>
+  <li>Sass</li>
 </ul>
 <h3>Backend Development</h3>
 <ul>
