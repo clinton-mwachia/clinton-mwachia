@@ -20,7 +20,7 @@
   <li>Django and Django REST Framework</li>
   <li>NodeJs</li>
 </ul>
-<h3>Artificial Intelligence</h3>
+<h3>Artificial Intelligence with Tensorflow</h3>
 <ul>
   <li>Machine Learning</li>
   <li>Data Science</li>
