@@ -11,19 +11,15 @@
 <h3>Frontend Development</h3>
 <ul>
   <li>ReactJs</li>
-  <li>Html5</li>
-  <li>css3</li>
-  <li>Sass</li>
 </ul>
 <h3>Backend Development</h3>
 <ul>
-  <li>Django and Django REST Framework</li>
-  <li>NodeJs</li>
+  <li>Django REST Framework</li>
+  <li>NodeJs/Express</li>
 </ul>
 <h3>Artificial Intelligence with Tensorflow</h3>
 <ul>
   <li>Machine Learning</li>
-  <li>Data Science</li>
   <li>Deep Learning</li>
 </ul>
 <!--
