@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋, i am clinton.
 <ul>
   <li>🌱 Learning is my super power</li>
   <li>👯 I’m available for collaborate on any project</li>
