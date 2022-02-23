@@ -14,13 +14,11 @@
 </ul>
 <h3>Backend Development</h3>
 <ul>
-  <li>Django REST Framework</li>
   <li>NodeJs/Express</li>
 </ul>
-<h3>Artificial Intelligence with Tensorflow</h3>
+<h3>Artificial Intelligence</h3>
 <ul>
   <li>Machine Learning</li>
-  <li>Deep Learning</li>
 </ul>
 <!--
 **clinton-mwachia/clinton-mwachia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
