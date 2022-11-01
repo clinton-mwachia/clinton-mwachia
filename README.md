@@ -23,6 +23,9 @@
   <li>Python</li>
 </ul>
 
+### Version Control
+- Git and Github.
+
 ### What I'm Working on :- 
 
 - 🔭 I’m currently working on my Start Up.
