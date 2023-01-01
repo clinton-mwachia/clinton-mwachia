@@ -11,6 +11,7 @@
 <h3>Frontend Development</h3>
 <ul>
   <li>ReactJs</li>
+  <li>Shiny R </>
 </ul>
 <h3>Backend Development</h3>
 <ul>
