@@ -15,8 +15,8 @@
 </ul>
 <h3>Backend Development</h3>
 <ul>
-  <li>NodeJs/Express</li>
-  <li>Go</li>
+  <li>NodeJs/Express/Fastify</li>
+  <li>Go/Gin</li>
 </ul>
 <h3>Machine Learning</h3>
 <ul>
