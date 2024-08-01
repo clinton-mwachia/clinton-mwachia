@@ -18,7 +18,7 @@
   <li>NodeJs/Express/Fastify</li>
   <li>Go/Gin</li>
 </ul>
-<h3>Machine Learning</h3>
+<h3>Data Science</h3>
 <ul>
   <li>R</li>
   <li>Python</li>
@@ -27,7 +27,7 @@
 ### Version Control
 - Git and Github.
 
-### What I'm Working on :- 
+### What I'm Working on:- 
 
 - 🔭 I’m currently working on my Start Up.
 <!--
