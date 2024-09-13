@@ -1,9 +1,9 @@
 ### Hello there 👋, i am clinton.
 <ul>
   <li>🌱 Learning is my super power</li>
-  <li>👯 I’m available for collaborate on any project</li>
-  <li>💬 Ask me about data science and machine learning on: https://www.quora.com/profile/Clinton-Mwachia</li>
-  <li>🔭 I’m available for a freelance task in data science,machine learning and fullstack development.</li>
+  <li>👯 I’m available to collaborate on any project</li>
+  <li>💬 Ask me about data science and machine learning at: https://www.quora.com/profile/Clinton-Mwachia</li>
+  <li>🔭 I’m available for a freelance task in data science, machine learning and fullstack development.</li>
   <li>📫 check out my youTube channel on data science and machine learning on: https://www.youtube.com/channel/UCP3rPF8kquLiniJjyiK-nzA?view_as=subscriber </li>
 </ul>
 
@@ -23,6 +23,16 @@
   <li>R</li>
   <li>Python</li>
 </ul>
+<h3>Database</h3>
+<ul>
+  <li>MongoDB </li>
+</ul>
+<h3>Desktop Apps</h3>
+<ul>
+  <li>Go Fyne</li>
+  <li>Python (Tkinter)</li>
+</ul>
+
 
 ### Version Control
 - Git and Github.
