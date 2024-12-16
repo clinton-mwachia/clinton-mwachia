@@ -1,4 +1,5 @@
 ### Hello there 👋, i am clinton.
+### I Love Writing algorithms and optimizing software for performance, scalability and maintainability.
 <ul>
   <li>🌱 Learning is my super power</li>
   <li>👯 I’m available to collaborate on any project</li>
