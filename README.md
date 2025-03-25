@@ -17,7 +17,7 @@
 <h3>Backend Development</h3>
 <ul>
   <li>NodeJs/Express/Fastify</li>
-  <li>Go/Gin</li>
+  <li>Go/Gin/Fiber</li>
 </ul>
 <h3>Data Science</h3>
 <ul>
@@ -31,7 +31,6 @@
 <h3>Desktop Apps</h3>
 <ul>
   <li>Go Fyne</li>
-  <li>Python (Tkinter)</li>
 </ul>
 
 
