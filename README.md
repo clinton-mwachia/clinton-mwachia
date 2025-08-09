@@ -52,10 +52,3 @@ I’m passionate about **writing algorithms** and **optimizing software** for pe
 - Building and growing my **startup**  
 
 ---
-
-## 📊 GitHub Stats  
-
-![Clinton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clinton-mwachia&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clinton-mwachia&layout=compact&theme=tokyonight)  
-
----
