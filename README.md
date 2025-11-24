@@ -13,7 +13,7 @@ I’m passionate about **writing algorithms** and **optimizing software** for pe
 - 🌱 Learning is my superpower  
 - 👯 Open to collaboration on exciting projects  
 - 💬 Ask me about **Data Science** and **Machine Learning** on [Quora](https://www.quora.com/profile/Clinton-Mwachia)  
-- 🔭 Available for **freelance work** in Data Science, Machine Learning, and Full-Stack Development  
+- 🔭 Available for Full-Stack Development, Data Analysis and Native Apps Development.  
 - 📫 Watch my tutorials on [YouTube](https://www.youtube.com/channel/UCP3rPF8kquLiniJjyiK-nzA?view_as=subscriber)  
 
 ---
