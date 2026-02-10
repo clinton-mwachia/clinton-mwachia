@@ -1,5 +1,7 @@
 # 👋 Hello there, I’m Clinton!  
 
+I am developing [Moshe Crafts](https://moshecrafts.com/), a Play Store for Desktop Apps.
+
 I’m passionate about **writing algorithms** and **optimizing software** for performance, scalability, and maintainability.  
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCP3rPF8kquLiniJjyiK-nzA?view_as=subscriber)
@@ -50,6 +52,6 @@ I’m passionate about **writing algorithms** and **optimizing software** for pe
 
 ## 🚀 What I’m Working On  
 - Building [Moshe Crafts](https://moshecrafts.com/), a Native App store for Utility Apps.
-- Download Apps for your daily tasks like Generating Invoices, Quoatations, school system etc.
+- Download Apps for your daily tasks like Generating Invoices, quotations, school system, etc.
 
 ---
