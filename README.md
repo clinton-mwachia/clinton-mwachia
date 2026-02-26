@@ -2,7 +2,11 @@
 
 I am developing [Moshe Crafts](https://moshecrafts.com/), a Play Store for Desktop Apps.
 
-The Apps are for individual use, business people, government projects, NGOs and many more.
+The Apps are for individual use, business people, government projects, NGOs, and many more.
+
+Download > Install > Use
+
+Inbox for custom servers and desktop Applications
 
 I’m passionate about **writing algorithms** and **optimizing software** for performance, scalability, and maintainability.  
 
