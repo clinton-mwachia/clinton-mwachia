@@ -1,6 +1,6 @@
 # 👋 Hello there, I’m Clinton!  
 
-I am developing [Moshe Crafts](https://moshecrafts.com/), a Play Store for Desktop Apps.  
+I am developing [Moshe Crafts](https://moshecrafts.com/), a Play Store for Desktop Apps, using [Fyne](https://fyne.io/).  
 
 The Apps are for individual use, business people, government projects, NGOs, and many more.  
 
