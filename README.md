@@ -2,11 +2,7 @@
 
 I am developing [Moshe Crafts](https://moshecrafts.com/), a Play Store for Desktop Apps, using [Fyne](https://fyne.io/).  
 
-The Apps are for individual use, business people, government projects, NGOs, and many more.  
-
-Download > Install > Use  
-
-Inbox for custom servers and desktop Applications  
+Developed [RMastery](https://clinton-mwachia.github.io/RMastery/), an interactive R Package for learning R.  
 
 I’m passionate about **writing algorithms** and **optimizing software** for performance, scalability, and maintainability.  
 
