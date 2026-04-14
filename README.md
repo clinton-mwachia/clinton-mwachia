@@ -44,7 +44,8 @@ I’m passionate about **writing algorithms** and **optimizing software** for pe
 - **[Shop Management System](https://www.youtube.com/watch?v=bnfl9Zvc0gQ&t=74s)** – A desktop app to help business people manage stock, sales, debt sales etc.
 
 ### 🧰 UI / Development Resources
-- **[FyneCookbook – Practical GUI Recipes in Go](https://github.com/clinton-mwachia/FyneCookbook)** – A curated collection of GUI examples & reusable components for building cross‑platform desktop apps with Fyne.  
+- **[FyneCookbook – Practical GUI Recipes in Go](https://github.com/clinton-mwachia/FyneCookbook)** – A curated collection of GUI examples & reusable components for building cross‑platform desktop apps with Fyne.
+- **[RMastery](https://clinton-mwachia.github.io/RMastery/)** - An interactive R Package for learning R within R. It has tutorials, exercises and complete exams. 
 
 ### 📊 Data & Dashboards
 - **[R‑SHINY – Shiny Dashboard Components](https://github.com/clinton-mwachia/R-SHINY)** – A set of interactive R Shiny components for exploring dashboards and data visualizations.  
