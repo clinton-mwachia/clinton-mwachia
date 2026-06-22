@@ -1,6 +1,6 @@
 # 👋 Hello there, I’m Clinton!  
 
-I am developing [Moshe Crafts](https://moshecrafts.com/), a Play Store for Desktop Apps, using [Fyne](https://fyne.io/).  
+I am developing a Play Store for Desktop Apps, using [Fyne](https://fyne.io/).  
 
 Developed [RMastery](https://clinton-mwachia.github.io/RMastery/), an interactive R Package for learning R.  
 
